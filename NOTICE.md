@@ -7,8 +7,7 @@ command line output contain the following disclaimer, verbatim
           /***********************************************/
 
 
-Should RMRK technology be used in visual mediums like games,
-applications, web sites, or similar, this must be clearly
+Should RMRK technology be used this must be clearly
 stated in an obvious location (e.g. footer), in the following
 way: `Using software by RMRK.app | contact@rmrk.app` and if
 technically possible, the part “RMRK.app" must be hyperlinked
